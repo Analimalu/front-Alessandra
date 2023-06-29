@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Documento</title>
+    <link rel="stylesheet" type="text/css"
+        href="index.html">
+</head>
+<body>
+    <div id="exemplo1"><h1>imagem é exibida em tamnho original</h1></div>
+
+    <div id="exemplo2"> imagem </div>
+
+    <div class="conteudo"></div>
+    
+    <img src="bob.jpg">
+
+
+</body>
+</html>
