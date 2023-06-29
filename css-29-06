@@ -1,0 +1,19 @@
+body{
+    background-image: url("bob.jpg");
+    
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+p{
+    background-color: blue;
+}
+
+div{
+    background-color: yellow;
+    opacity: o.3;
+}
+
