@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title> inicio</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+  </head>
+
+<body bgcolor="gray" text="white">
+    <pre>
+    <center> <font size="25">desenvolvimento de sistemas</center></font>
+    
+<ol  type="1" start="5">
+    
+ <font color="yellow" size="4" face="arial">   
+
+periodo: 
+    <li>manha</li>
+    <li>vespertino</li>
+    <li>noturno</li></font>
+</ol>
+
+<ul type="square">
+    periodo:
+    <li>manha</li>
+    <li>vespertino</li>
+    <li>noturno</li>
+</ul></font>
+
+<a href="www.google.com.br" target="_self"><h1>google</a></h1>
+<a href="foto.jpg" target="_self"><h1>foto</a></h1>
+
+</body>
+
+</html>
