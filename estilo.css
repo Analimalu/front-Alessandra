@@ -1,9 +1,45 @@
 body{
-background-color:gray;
+background-color:rgb(196, 212, 230);
+color: black;
+font-size: 15px;
+border-style:groove;
+border-color: #55a294;
 }
-input{ background-color:green;
-color:red;
-width:100%;
+
+input{ 
+background-color:rgb(153, 165, 227);
+color:rgb(101, 78, 78);
+border-color: #555;
 border:2px solid #555;
-border-radius:4px;
+border-style: dotted;
+border-radius:20px;
+font-size: 20px;
+
 }
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color: rgb(36, 113, 126);
+}
+
+input[type=date]{
+    color: blue;
+}
+
+textarea{
+    background-color: rgb(75, 178, 197);
+}
+
+input[type=submit]{
+    width: 700px;
+    height: 950;
+}
+
+input[type=reset]{
+    width: 700px;
+    height: 250;
+}
+
+ 
