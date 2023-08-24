@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>...</title>
+    <meta charset="UTF-8">
+
+</head>
+
+<body bgcolor="blue" text="red"><!--muda a cor de fundo-->
+    aula de programação 
+    <br><!--pula linha-->
+    <font color="pink" size=18 face="Arial"><!--muda a cor de fundo, tamanho e fonte -->
+       <b>
+        Alessandra
+       </b> 
+    </font>
+    
+    <br>
+    <font color="yellow" size=68 face="Arial" >
+        
+        <center><i>
+        Aluno: Ana Luiza Lima
+        </center></i>
+    </font>
+    
+    <br>
+        Disciplinas
+    <ol type="disk">    <!--circle, square são outros jeitos de colocar-->
+        <li><h1>Matemática</h1></li>
+        <li><h2>História</h2></li>
+        <li><h3>Geografia</h3></li>
+        <li><h4>Biologia</h4></li>
+        <li><h5>Portugues</h5></li>
+         <li><h6>Ingles</h6></li>
+    </ol>
+
+    <ul type="A">    
+        <li><h1>Matemática</h1></li>
+        <li><h2>História</h2></li>
+        <li><h3>Geografia</h3></li>
+        <li><h4>Biologia</h4></li>
+        <li><h5>Portugues</h5></li>
+         <li><h6>Ingles</h6></li>
+    </ul>
+
+
+
+
+    
+</body>
+</html>
