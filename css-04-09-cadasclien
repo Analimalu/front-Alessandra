@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(238, 202, 240);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+pre{
+    color: rgb(160, 97, 116);
+}
+
+img{
+    border-radius:30px;
+    width: 450px;
+    height: 350px;
+}
+
+input[type=radio]{
+    color: blue;
+}
+
+input[type=date]{
+    color: blue;
+    border-radius: 10%;
+}
+
+select{
+    color: brown;
+    border-radius: 10%;
+}
+
+input{ 
+    background-color:rgb(240, 204, 211);
+    color:rgb(133, 91, 91);
+    border-color: #a36464;
+    border:2px solid #c78e8e;
+    border-radius:5px;
+    font-size: 15px;
+    }
+
+input[type=reset]{
+    font-size: 15px;
+        border-radius: 10%;
+    }
+
+input[type=submit]{
+    font-size: 15px; 
+        border-radius: 10%;
+    }
+
