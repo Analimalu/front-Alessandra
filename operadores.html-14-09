@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var numero=Number(window.prompt ("Digite numero:"))
+            document.write(numero,'<br>')
+        var numero1=Number(window.prompt ("Digite numero:"))
+            document.write(numero1,'<br>')
+
+        var multiplicacao=numero*numero1
+            document.write(multiplicacao, '<br>')
+
+        var numero2=Number(window.prompt ("Digite numero:"))
+            document.write(numero,'<br>')
+        var numero3=Number(window.prompt ("Digite numero:"))
+            document.write(numero1,'<br>')
+
+        var divisao=numero2/numero3
+            document.write(divisao, '<br>')
+
+        var numero2=Number(window.prompt ("Digite numero:"))
+            document.write(numero,'<br>')
+        var numero3=Number(window.prompt ("Digite numero:"))
+            document.write(numero1,'<br>')
+
+        var subtracao=numero2-numero3
+            document.write(subtracao, '<br>')
+
+            var resto=numero2%numero3
+            document.write(resto, '<br>')
+
+
+
+    </script> 
+    
+</body>
+</html>
