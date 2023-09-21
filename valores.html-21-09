@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <script>
+        var x=8, y=4, z=1;
+        document.write( "<br>", "O valor:", x+y+z);
+        document.write( "<br>", "O valor:", x-y+z);
+        document.write( "<br>", "O valor:", x*y);
+        document.write( "<br>", "O valor:", x/y);
+        document.write( "<br>", "O valor:", x**y);
+    </script>
+
+</body>
+</html>
