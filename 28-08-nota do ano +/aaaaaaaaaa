@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body><center>
+    <script>
+       var x= Number(window.prompt ("Digite a primeira nota"));
+       document.write(x,'<br>')
+       var y= Number(window.prompt ("Digite a primeira nota"));
+       document.write(y,'<br>')
+       var z= Number(window.prompt ("Digite a primeira nota"));
+       document.write(z,'<br>')
+       
+       var soma= (x+y+z);
+       var divisao= (soma)/3
+       document.write (divisao)
+
+    </script></center>
+  </body>
+</html>
