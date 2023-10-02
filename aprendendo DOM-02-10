@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+  
+</head>
+<body>
+    <h1>iniciando Dom</h1>
+    <p>aqui vai o<i> resultado</p></i>
+    <p><u>aprendendo</u> usar <strong>Dom</strong></p>
+    <center><div><h2>Clique em <mark>mim</mark></div></h2></center>
+    <script>
+        var p1=window.document.getElementsByTagName('p')[0]
+        window.document.write(p1.innerText)
+        window.document.write(p1.innerHTML)
+        p1.style.color='blue'
+        p1.style.textAlign='center'
+        var corpo=window.document.body
+        corpo.style.backgroundColor='#87CEEB'
+        corpo.style.color='white'
+        p1.style.fontFamily='Calibri'
+
+    </script>
+    
+</body>
+</html>
