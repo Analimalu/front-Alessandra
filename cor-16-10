@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>aoaoaoaoao</title>
+</head>
+<body>
+    <script>
+    var tinta=window.prompt("digite uma cor");
+    switch (tinta){
+        case 'amarelo':
+        case 'AMARELO':
+        case 'Amarelo':
+        document.write('Irei pintar de amarelo');
+        break;
+        case 'vermelho':
+        case 'VERMELHO':
+        case 'Vermelho':
+        document.write('Irei pintar de vermelho');
+        break;
+        case 'azul':
+        case 'AZUL':
+        case 'Azul':
+        document.write('Irei pintar de azul');
+        break;
+        default:
+        document.write('não tem uma cor escolhida');
+    }
+    
+    </script>
+</body>
+</html>
