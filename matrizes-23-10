@@ -1,0 +1,55 @@
+1-:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Documento</title>
+</head>
+<body>
+    <p id="matriz">Trabalhando com matriz</p>
+    <p id="b">Trabalhando com matriz</p>
+    <script>
+       const carros=["volvo", "BMW", "b"];
+       document.getElementById("matriz").innerHTML=carros[0];
+       document.getElementById("b").innerHTML=carros;
+    </script>
+</body>
+</html>
+
+2-:
+<body>
+    <p id="matriz">Trabalhando com matriz</p>
+    <p id="b">Trabalhando com matriz</p>
+    <script>
+       const carros=["volvo", "BMW"];
+       let car=carros[1];
+       document.write (car); 
+    </script>
+</body>
+
+3-Países:
+<body>
+    <script>
+        const país=[];
+        país[0]="Brasil";
+        país[1]="EUA";
+        país[2]="Coreia";
+        país[3]="Inglaterra";
+        document.write(país[2])
+    </script>
+
+</body>
+</html>
+
+4-Países getElementById:
+
+<body>
+    <p id="matriz">Trabalhando com matriz</p>
+    <p id="b">Trabalhando com matriz</p>
+    <script>
+       const países=["Brasil", "EUA", "Coreia", "Inglaterra"];
+       document.getElementById("matriz").innerHTML=países[0];
+       document.getElementById("b").innerHTML=países;
+    </script>
+    
+</body>
