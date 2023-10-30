@@ -1,0 +1,26 @@
+cidade:
+<body>
+    <p id="a">trabalhando com matriz</p>
+    <script>
+        const cidade=["corbelia","cascavel"];
+        cidade[0]="maringa";
+        document.getElementById("a").innerHTML=cidade;
+        document.getElementById("a").innerHTML=cidade.toString();
+        document.getElementById("a").innerHTML=cidade.join("-");
+        cidade.push("Santa Helena");
+        document.getElementById("a").innerHTML=cidade;
+
+    </script>
+</body>
+</html>
+
+fruta:
+<body>
+    <p id="a">trabalhando com matriz</p>
+    <script>
+        const fruta=["maça","banana","uva","jabuticaba","maracuja"];
+        fruta[0]="Manga";
+        document.getElementById("a").innerHTML=fruta;
+        document.getElementById("a").innerHTML=cidade.join("*");
+    </script>
+</body>
